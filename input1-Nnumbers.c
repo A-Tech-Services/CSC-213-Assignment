@@ -7,6 +7,7 @@ int main(){
     scanf("%d", &N);
     printf("Your input is %d\n", N);
 
+    // Listing out range of input.
     for(a = 1; a < N; a++){
         printf("%d\n", a);
     }
